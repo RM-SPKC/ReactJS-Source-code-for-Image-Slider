@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+h1
+{
+color:#734F96;
+}
+#box {
+  width: 1120px;   
+  height: 800px;   
+  border: solid 1px #ddd;
+  margin: auto;   
+  overflow: hidden; 
+}
+
+.slider img {
+  width: 100%;    
+  height: 50%;     
+  object-fit: cover; 
+  transition: opacity 0.5s ease;
+}
